@@ -1,4 +1,4 @@
-|[Home](index.md)|[Termine](Termine.md)|[Kontakte](kontakte.md)|[Termine](Termine.md)|[Impressum](impressum.md)|
+|[Home](index.md)|[Termine](Termine.md)|[Kontakte](kontakte.md)|[Impressum](impressum.md)|
 # Konzert-Termine 2022
 
 ## April
