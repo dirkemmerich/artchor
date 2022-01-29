@@ -1,6 +1,6 @@
 ## Webseite ArtChor Langsdorf
 
-https://artchorlangsdorf.github.io/homepage/
+https://artchorlangsdorf.github.io/artchor/
 
 ### Markdown
 
