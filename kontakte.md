@@ -2,4 +2,5 @@
 
 # Kontakte
 
+|Ines Hoffmann |Kontakte |mail@artchor.de |
 |Dirk Emmerich |Webadmin |admin@artchor.de|
