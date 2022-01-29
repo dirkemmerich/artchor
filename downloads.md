@@ -1,4 +1,4 @@
-|[Home](index.md)|[Kontakte/Abteilungen](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
+|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
 
 # Downloads
 
