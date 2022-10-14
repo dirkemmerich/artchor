@@ -27,7 +27,7 @@
 
 - Fr. 14.10   Probenwochenende 1
 - Sa. 15.10   Probenwochenende 2
-- Sa. 16.10.  Gottesdienst ev. Kirche Langsdorf
+
 
 # Proben-Termine
 
